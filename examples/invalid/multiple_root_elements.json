@@ -1,0 +1,22 @@
+{
+    "name": "Artur",
+    "wife": null,
+    "children": ["Małgorzata", "Bartek"],
+    "criminal history": true,
+    "weight": 73.5,
+    "fridge content": {
+        "egg": 4,
+        "ham": "200g"
+    }
+}
+{
+    "name": "Artur",
+    "wife": null,
+    "children": ["Małgorzata", "Bartek"],
+    "criminal history": true,
+    "weight": 73.5,
+    "fridge content": {
+        "egg": 4,
+        "ham": "200g"
+    }
+}
